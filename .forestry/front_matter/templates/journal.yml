@@ -20,4 +20,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/title.md
 - portfolio/journal/this-is-another-journal.md
